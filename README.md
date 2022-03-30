@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-This repo is the first repo I created. It contains one README file and one tooltip.html.
+This repo is the first repo I created. It contains one README file and one index.html.
 [Github Kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ![alt text](https://pbs.twimg.com/profile_banners/1455842232712548352/1638181571/1080x360)
